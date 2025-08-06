@@ -1,0 +1,7 @@
+.red{  /* . means class */
+    color: violet;
+}
+
+#firstdiv{ /* #- means id */
+    background-color: red;
+}
